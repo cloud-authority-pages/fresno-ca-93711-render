@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fresno-ca-93711.onrender.com/sitemap.xml
+Sitemap: https://fresno-ca-93711.onrender.com/fresno-property-management/sitemap.xml
